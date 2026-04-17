@@ -1,8 +1,8 @@
 
 
 
-import { icons } from '@/myapp/constants/icons';
-import { images } from '@/myapp/constants/images';
+import { icons } from "@/constants/icons";
+import { images } from "@/constants/images";
 import { Tabs } from 'expo-router';
 import React from 'react';
 import { Image, ImageBackground, Text, View } from 'react-native';
