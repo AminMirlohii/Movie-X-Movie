@@ -13,6 +13,7 @@ export default function Index() {
 
     const router = useRouter();
 
+
     const { 
       data: movies,
       loading: moviesLoading, 
